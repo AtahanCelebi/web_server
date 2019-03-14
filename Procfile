@@ -1,1 +1,1 @@
-worker: python Tarla Uygulaması.py
+worker: python tarla.py
